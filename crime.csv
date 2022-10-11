@@ -1,0 +1,959 @@
+City State,"Violent Crime Rate Per 100,000 People","Property Crime Rate Per 100,000 People"
+Albuquerque NM,965.8,6073.2
+Anaheim CA,363.7,2872.3
+Anchorage AK,1070.9,3917.5
+Arlington TX,502.1,3443.6
+Atlanta GA,1119.6,5499.3
+Aurora CO,460.8,2936.7
+Austin TX,372.5,3771
+Bakersfield CA,484.1,4161.4
+Baltimore MD,1535.9,4980.4
+Boston MA,706.8,2316.1
+Buffalo NY,1118.6,4330.2
+Chandler AZ,189.3,2083.2
+Charlotte NC,677.6,3767.9
+Chicago IL,903.8,2946.3
+Chula Vista CA,265.8,1741.6
+Cincinnati OH,925,5510
+Cleveland OH,1334.3,5434.4
+Colorado Springs CO,438.3,3648
+Columbus OH,546.3,3934.3
+Corpus Christi TX,645,3465.6
+Dallas TX,694.2,3440.2
+Denver CO,673.9,3529.9
+Detroit MI,1759.6,4093.6
+Durham NC,847.2,4115.8
+El Paso TX,366.6,1914.2
+Fort Wayne IN,378.9,3058.4
+Fort Worth TX,525.4,3585.7
+Fresno CA,551.2,4148.3
+Greensboro NC,597,3568.5
+Henderson NV,168.5,1893.1
+Honolulu HI,243.9,3110.7
+Houston TX,966.7,4397.5
+Indianapolis IN,1288,4790.8
+Irvine CA,55.8,1498.1
+Jacksonville FL,648.3,3673
+Jersey City NJ,521.6,1594.9
+Kansas City MO,1417.3,4441.3
+Laredo TX,379.3,3370.9
+Las Vegas NV,920.7,2995.3
+Lexington KY,332.4,3949.7
+Lincoln NE,370.6,3265.9
+Long Beach CA,580.7,3010
+Los Angeles CA,634.8,2359.6
+Louisville Metro KY,631.8,4166
+Memphis TN,1740.1,5630.8
+Mesa AZ,418.7,2527.4
+Miami FL,1021.3,4367.4
+Milwaukee WI,1596.1,4264.2
+Minneapolis MN,1062.9,4193.9
+Mobile AL,610.8,4311.6
+Nashville TN,1101,3805.8
+New Orleans LA,949.6,3874.2
+New York NY,585.8,1518.7
+Newark NJ,1077.7,2851.2
+Oakland CA,1442.5,5856.8
+Oklahoma City OK,765.6,3956.1
+Omaha NE,515,3595.6
+Orlando FL,940.6,6015.5
+Philadelphia PA,1029,3147.4
+Phoenix AZ,593.8,3491.3
+Pittsburgh PA,706.2,3224.5
+Plano TX,153,1799.1
+Portland OR,472.8,5234.8
+Raleigh NC,392.3,3063
+Riverside CA,446,3259.7
+Sacramento CA,737.4,3369.5
+San Antonio TX,587.2,5029.5
+San Diego CA,398.6,2082
+San Francisco CA,776.8,6138
+San Jose CA,329.6,2427.1
+Santa Ana CA,482.1,2155.3
+Seattle WA,598.7,5522
+St. Louis MO,1817.1,6316.1
+St. Paul MN,703.3,3282.1
+St. Petersburg FL,741.9,5622.7
+Stockton CA,1352,4263.2
+Tampa FL,630.7,2295.9
+Toledo OH,1128.9,4475
+Tucson AZ,655.5,6642.8
+Tulsa OK,903.6,5203.2
+Virginia Beach VA,138.3,2205.6
+Washington DC,1202.6,4516.2
+Wichita KS,984.8,5041.2
+Abilene TX,393.7,3664.3
+Akron OH,886.6,5057.7
+Alexandria VA,166.6,2049.5
+Allentown PA,547.2,3857.2
+Amarillo TX,650.1,4527.5
+Amherst Town NY,74.8,1922.8
+Ann Arbor MI,197.4,2370.3
+Antioch CA,1017.1,4530.1
+Arvada CO,144.9,2389.3
+Athens GA,387.4,3917.2
+Aurora IL,281.8,1784.6
+Baton Rouge LA,1082.9,5209.1
+Beaumont TX,1032.2,4840.3
+Bellevue WA,127.8,2779.7
+Berkeley CA,423.6,4954.7
+Billings MT,347.8,4523.8
+Birmingham AL,1517.8,6934.1
+Boise ID,268,2524.9
+Boulder CO,248.4,2929.5
+Bridgeport CT,1205.2,3528.7
+Broken Arrow OK,153.9,2172.1
+Brownsville TX,261.2,4603.5
+Burbank CA,231.3,2373
+Cambridge MA,402.9,2889.3
+Cape Coral FL,143.5,2205.8
+Carlsbad CA,245.6,1955
+Carrollton TX,144.6,2742.7
+Cary NC,81.6,1353.7
+Cedar Rapids IA,277.3,3678.3
+Centennial CO,150.9,1383.4
+Chandler AZ,258.7,2707.2
+Charleston SC,239,2723.3
+Chesapeake VA,368.7,2765.3
+Chula Vista CA,232.6,2033.8
+Clarksville TN,637,2723.6
+Clearwater FL,665.4,3902.8
+Columbia MO,430.2,3814.9
+Columbus GA,506.7,5742.7
+Concord CA,321.1,3340.1
+Coral Springs FL,183.2,2255.6
+Corona CA,133.5,2633.1
+Costa Mesa CA,225.5,3621.4
+Daly City CA,209.1,1745.2
+Davenport IA,596.9,4039.8
+Dayton OH,973.7,5899.2
+Denton TX,310.2,2742.5
+Des Moines IA,527.5,4922.9
+Downey CA,335.3,3112.8
+Durham NC,725.9,4363.6
+Edison NJ,120.8,1466.2
+El Cajon CA,358.3,2369.8
+El Monte CA,342.4,1933.1
+Elgin IL,235.4,1815.8
+Elizabeth NJ,797.4,3445.5
+Elk Grove CA,327.5,2105.6
+Erie PA,449.1,3442.1
+Escondido CA,426.1,2637.3
+Eugene OR,272.1,5064.4
+Evansville IN,473.8,5146.6
+Everett WA,456.7,6092
+Fairfield CA,423.9,3096.8
+Fargo ND,358.8,2581.7
+Fayetteville NC,575.8,6390.9
+Flint MI,2729.5,5554.4
+Fontana CA,423.2,2237.2
+Fort Collins CO,262.8,2768.3
+Fort Lauderdale FL,903.3,5830.5
+Fremont CA,139.8,1945.4
+Frisco TX,79.5,2051.1
+Fullerton CA,326.5,2843.5
+Gainesville FL,669.9,4094.1
+Garden Grove CA,250.7,2294.4
+Garland TX,229.8,3691.7
+Gilbert AZ,95.7,1580.3
+Glendale AZ,491.4,6409.5
+Glendale CA,119.5,1561.3
+Grand Prairie TX,274.5,2885.9
+Grand Rapids MI,771.2,3484
+Green Bay WI,484.5,2807.3
+Gresham OR,450.1,4489.8
+Hampton VA,227.7,3377
+Hartford CT,1321.9,4248.3
+Hayward CA,415.8,3250.5
+Hialeah FL,347.5,3086.1
+High Point NC,520.6,4135.7
+Hollywood FL,442.5,5307.9
+Huntington Beach CA,160.8,2809.8
+Huntsville AL,923.3,5041.6
+Independence MO,457.3,6090.3
+Inglewood CA,699.6,2397.6
+Irvine CA,50.6,1518.9
+Irving TX,226.3,2815.5
+Jackson MS,948.1,6575
+Joliet IL,340.8,2583
+Kansas City KS,595.8,5120.9
+Kent WA,444.7,4478.2
+Killeen TX,644.9,3778.3
+Knoxville TN,973.4,6676.9
+Lafayette LA,634.1,5547.3
+Lakewood CO,461.7,4579.8
+Lancaster CA,539.7,2197.9
+Lansing MI,939.9,3290.7
+Laredo TX,421.9,4351.3
+Little Rock AR,1315.4,8061
+Lowell MA,539,2879.1
+Lubbock TX,827,5173.2
+Madison WI,377.7,3264.3
+Manchester NH,567.1,3496.9
+McAllen TX,122.3,4025.9
+McKinney TX,165.8,2017.3
+Mesquite TX,305.2,4340.1
+Miami Gardens FL,837.4,4303
+Midland TX,344.2,2601.2
+Miramar FL,426.2,2368.3
+Modesto CA,777,5510.4
+Montgomery AL,395.7,5768.9
+Moreno Valley CA,353.6,3190.7
+Murfreesboro TN,624.5,3568.9
+Murrieta CA,65.5,1605.2
+Naperville IL,83.3,1431
+New Haven CT,1439.2,5014.9
+Newport News VA,415.2,3151
+Norfolk VA,543,4643.6
+Norman OK,151.8,2676.2
+North Charleston SC,732.1,5718.4
+North Las Vegas NV,763.9,2494.1
+Norwalk CA,403.6,2431.6
+Oceanside CA,425.4,2506.1
+Odessa TX,1064.3,3586.6
+Olathe KS,148.6,1929.1
+Ontario CA,318,3010.7
+Orange CA,96.6,2028
+Orlando FL,1017.4,6613.8
+Overland Park KS,160.9,2303.4
+Oxnard CA,298.8,2017.4
+Palm Bay FL,528.5,2348.2
+Palmdale CA,522.9,2184.9
+Pasadena CA,310.7,2424.3
+Pasadena TX,402.4,3629.6
+Paterson NJ,1054.7,3153.3
+Pembroke Pines FL,149,2653
+Peoria AZ,186.9,2951.1
+Peoria IL,797.1,4356
+Pomona CA,673.9,3336.4
+Pompano Beach FL,1029.1,5399.8
+Port St. Lucie FL,234.5,1799.7
+Providence RI,636.9,4484.4
+Provo UT,127.5,2109
+Pueblo CO,730.8,6445.7
+Rancho Cucamonga CA,189.6,2576.9
+Reno NV,517.2,3220.6
+Rialto CA,501,3514.9
+Richardson TX,165.6,2909
+Richmond CA,1092.5,4718.1
+Richmond VA,648.7,4380.7
+Rochester MN,,2505.9
+Rochester NY,976,5322.3
+Rockford IL,1367.8,4995.6
+Roseville CA,238.4,2675.4
+Round Rock TX,132.7,2481.4
+Salem OR,358.4,4277.6
+Salinas CA,665.1,3177.2
+Salt Lake City UT,675.4,7459.5
+San Bernardino CA,940.5,4888.7
+Santa Clara CA,185.2,2769.8
+Santa Clarita CA,190.8,1529.7
+Santa Maria CA,681.8,2401
+Santa Rosa CA,372.2,2234.6
+Savannah-Chatham Metropolitan GA,379.6,3599.5
+Scottsdale AZ,147.2,2706.4
+Shreveport LA,766.7,4878.2
+Simi Valley CA,111.3,1512.4
+Sioux Falls SD,398.5,3183.4
+South Bend IN,613.4,4760.4
+Spokane WA,645.3,8730.1
+Springfield IL,971.6,5929.3
+Springfield MA,1039.4,4545.7
+Springfield MO,991.5,9010.8
+St. Petersburg FL,901.6,5013.7
+Stamford CT,282.6,1555.5
+Sterling Heights MI,178.5,1983.5
+Sunnyvale CA,118.4,1779.2
+Surprise AZ,134.1,2059.7
+Syracuse NY,940.2,4095
+Tacoma WA,797,6349
+Tallahassee FL,853,4646.3
+Temecula CA,93.8,2359.4
+Tempe AZ,528.7,4711.5
+Thornton CO,269.7,2645.5
+Thousand Oaks CA,121.5,1422.9
+Topeka KS,599.2,5309.6
+Torrance CA,128.5,1819.4
+Tyler TX,535.8,4504.2
+Vallejo CA,744.6,4956.2
+Vancouver WA,355.8,3893.6
+Ventura CA,285.7,3580.3
+Victorville CA,569.6,3762
+Visalia CA,426.3,4334.5
+Waco TX,493.8,4544.5
+Warren MI,532.2,2819
+Waterbury CT,296.9,4265.7
+West Covina CA,260.5,2989
+West Jordan UT,185.8,2769.3
+West Palm Beach FL,801.6,5276.2
+West Valley UT,447.9,4164.5
+Westminster CO,259.5,2585.4
+Wichita Falls TX,450.3,4759.8
+Wilmington NC,565.1,5403.7
+Winston-Salem NC,663,5838
+Woodbridge NJ,121.3,1955
+Worcester MA,959.4,3510
+Yonkers NY,570.9,1292.4
+Alameda CA,212,2507.1
+Albany GA,1035.5,6369.7
+Albany NY,816.8,4420.1
+Alhambra CA,176.4,2271.8
+Allen TX,61.9,1612.9
+Alpharetta GA,70,2048.9
+Apple Valley CA,312,2646
+Appleton WI,290.1,1895.7
+Arlington Heights IL,54.3,1296
+Asheville NC,495.9,5756.5
+Auburn WA,343.4,5518
+Avondale AZ,297.3,4698.6
+Baldwin Park CA,340.5,2068
+Bayonne NJ,206.1,1275.8
+Baytown TX,331.9,4950.3
+Beaverton OR,152.8,1594.1
+Bellflower CA,390.3,2313.6
+Bellingham WA,266.1,4808.6
+Bensalem PA,131.9,3634.7
+Bethlehem PA,315.7,2584
+Bismarck ND,340.1,3034.2
+Bloomington IL,482.4,2330.5
+Bloomington IN,297.7,3973.7
+Bloomington MN,#N/A,3796.9
+Boca Raton FL,189.6,2956.3
+Bolingbrook IL,243.8,1542.6
+Bossier City LA,373.9,3858
+Boynton Beach FL,570.5,4272.4
+Brick NJ,106.8,1642.3
+Bristol CT,153.2,2620
+Brockton MA,1143.4,3227.3
+Brooklyn Park MN,#N/A,3399
+Bryan TX,397.6,3151.2
+Buena Park CA,249.7,2504.1
+Burnsville MN,#N/A,2956.6
+Camarillo CA,91.7,1436
+Camden NJ,2566.1,5159.3
+Canton OH,999.8,6476.1
+Carmel IN,13.4,987.5
+Carson CA,557.7,2905.6
+Champaign IL,911.1,3319.8
+Cheektowaga Town NY,221,3562.9
+Cherry Hill NJ,157,3152.6
+Cheyenne WY,229.6,3413.2
+Chico CA,323.8,2630.6
+Chino Hills CA,83.5,1247.5
+Chino CA,364.7,2651.9
+Cicero IL,449.6,2634.6
+Citrus Heights CA,386.5,3662.2
+Clarkstown Town NY,94.8,1884.4
+Clifton NJ,217.3,1864.6
+Clinton MI,300,2298.9
+Clovis CA,223.9,4114.4
+College Station TX,508.5,2483.2
+Colonie Town NY,59.1,2719.2
+Compton CA,1242.1,2446.5
+Conway AR,415.2,4182.9
+Coon Rapids MN,#N/A,3077
+Council Bluffs IA,1186.5,6841.2
+Cranston RI,161.9,2375.6
+Danbury CT,133.1,1907.4
+Davie FL,388.6,3657.6
+Davis CA,142.6,2215.3
+Daytona Beach FL,1155.8,6254.3
+Dearborn MI,331.2,3376
+Decatur IL,462.4,3215.5
+Deerfield Beach FL,464.9,3174.4
+Delray Beach FL,736.6,4754.7
+Dothan AL,481.3,4427
+Duluth MN,#N/A,4446.6
+Eagan MN,#N/A,2341.2
+East Orange NJ,562.8,1801.1
+Eden Prairie MN,#N/A,1551.9
+Edinburg TX,444.4,5890.6
+Edmond OK,101.8,2012.6
+Encinitas CA,246.1,2126
+Evanston IL,304.7,2745.3
+Fairfield CT,54.9,2163.9
+Fall River MA,1062.9,3014.9
+Farmington Hills MI,92.1,1573.8
+Fayetteville AR,514.7,4036.5
+Federal Way WA,321.8,5551.3
+Fishers IN,17.6,1034.3
+Flagstaff AZ,393.2,4253.1
+Flower Mound TX,30.9,827.7
+Folsom CA,115.4,1733.2
+Fort Myers FL,1171.2,3644
+Fort Smith AR,785.3,5453.6
+Framingham MA,221.2,1778.6
+Franklin NJ,114.5,1828.7
+Franklin TN,143.4,1593
+Frederick MD,570.3,2842.5
+Gary IN,904.7,5560.9
+Gastonia NC,618.3,5842.1
+Gloucester NJ,320.5,2373
+Goodyear AZ,153.7,2646.5
+Greece Town NY,133.3,2641.8
+Greeley CO,442.5,3368.4
+Greenville NC,523.8,4426.2
+Greenville SC,835.1,5287.7
+Greenwich CT,37.1,594
+Hamden CT,527.6,2264.4
+Hamilton NJ,211,2219.7
+Hamilton OH,592.4,7505.9
+Hammond IN,820.9,4256.3
+Harlingen TX,403.8,4875.4
+Haverhill MA,675.3,2324.8
+Hawthorne CA,743.4,2545.2
+Hemet CA,499.9,4292.4
+Hesperia CA,435.1,2708.3
+Hillsboro OR,191.2,2288.6
+Homestead FL,1664.4,5122.2
+Hoover AL,104.5,2647.8
+Indio CA,573.2,3555.4
+Iowa City IA,267.3,2661.3
+Jackson TN,1478.9,4938.8
+Janesville WI,281.3,3870.1
+Johns Creek GA,53.7,657.2
+Johnson City TN,495.8,4468.3
+Jonesboro AR,428.7,4588.2
+Jurupa Valley CA,319.7,3252.8
+Kalamazoo MI,878.4,4171.3
+Kenner LA,207.1,3738.6
+Kennewick WA,297.5,3081.7
+Kenosha WI,274,2999.2
+Kissimmee FL,905.4,5004.6
+La Habra CA,238.1,1862.9
+Lafayette IN,597.1,4831.3
+Laguna Niguel CA,72.8,1183.9
+Lake Forest CA,135.2,1374.3
+Lakeland FL,465.3,5219.4
+Lakewood NJ,117.3,1176.6
+Lakewood CA,278.9,2533.7
+Lancaster PA,773,4820.9
+Largo FL,500.1,3956.4
+Las Cruces NM,394.7,4426.8
+Lauderhill FL,850.2,4249.3
+Lawrence KS,414.9,4481.9
+Lawrence MA,1010.8,2530.2
+Lawton OK,931.4,5272.3
+Layton UT,121,2748.5
+League City TX,91.7,2013.3
+Lee's Summit MO,118.7,2316
+Livermore CA,363.5,2180
+Livonia MI,152,2211.9
+Lodi CA,439.4,4078.9
+Longmont CO,211.4,2439.1
+Longview TX,560.8,5102.1
+Lorain OH,506.6,5039.9
+Loveland CO,209.7,2600.3
+Lynchburg VA,345.2,2706
+Lynn MA,820.9,2818.8
+Lynwood CA,763,1936.3
+Macon GA,628,7216
+Madera CA,742.1,2581.4
+Malden MA,462,1985
+Manteca CA,384.7,3891.9
+Maple Grove MN,#N/A,2036.9
+Marysville WA,189,2882
+Medford OR,558.9,5810.3
+Melbourne FL,853.1,4374.3
+Menifee CA,108.7,2426.1
+Merced CA,1000.3,5076.8
+Meriden CT,364.3,2973.7
+Meridian ID,119.1,1591.8
+Miami Beach FL,1033.3,9913.7
+Middletown NJ,67.2,1092.4
+Milpitas CA,118.4,2956.2
+Mission Viejo CA,76.4,1252.1
+Mission TX,129.1,2942
+Missoula MT,326.2,4488
+Missouri City TX,121.4,1241.2
+Montebello CA,229.8,2793.6
+Monterey Park CA,122.4,1668
+Mount Pleasant SC,218.5,1756.7
+Mount Vernon NY,899.5,1973.7
+Mountain View CA,204.1,1868.8
+Muncie IN,367,4173.5
+Nampa ID,243.7,2616.5
+Napa CA,274.8,2090.6
+Nashua NH,234.8,2717.9
+New Bedford MA,1072.6,3311.4
+New Braunfels TX,190.1,3488.6
+New Britain CT,431.5,3971
+New Rochelle NY,232,1789.2
+Newport Beach CA,115.7,2464.3
+Newton MA,87.6,1031
+North Bergen NJ,144.1,1183.9
+North Little Rock AR,711.3,8666.9
+North Miami FL,854.6,4876.6
+North Richland Hills TX,258.6,2390.9
+Northern York Regional PA,98.5,1736.5
+Norwalk CT,313.8,1975.9
+O'Fallon MO,91.7,1544.6
+Ogden UT,414.9,4702.5
+Old Bridge NJ,84.8,1380.6
+Orem UT,44.6,2357.7
+Oshkosh WI,287.2,2588.9
+Palatine IL,42.1,1293.4
+Palo Alto CA,80.3,2134.2
+Parma OH,69.2,557
+Pasco WA,304,2606.3
+Passaic NJ,730.4,2077.3
+Pawtucket RI,405.1,3445.2
+Pearland TX,129.9,1851.1
+Perris CA,339.9,2946.9
+Pharr TX,366.9,3157.7
+Pico Rivera CA,407.9,2781.8
+Pittsburg CA,234.2,3247
+Plantation FL,317,3925.7
+Pleasanton CA,68.2,1779.5
+Plymouth MN,#N/A,1663.4
+Portland ME,260.5,3963.1
+Portsmouth VA,476.5,4983.5
+Quincy MA,427.8,1657.8
+Racine WI,473.1,4023.8
+Ramapo Town NY,93.6,837.9
+Rancho Cordova CA,593.5,3182.1
+Rapid City SD,607.3,5080.1
+Reading PA,935,4078.7
+Redding CA,774.9,4814.6
+Redlands CA,313.9,4250.1
+Redondo Beach CA,280,2352
+Redwood City CA,265.1,2294
+Renton WA,302,4867.6
+Rio Rancho NM,225.8,2128.3
+Roanoke VA,554.3,4879.3
+Rock Hill SC,656.7,3783.2
+Roswell GA,143.3,1867.8
+San Clemente CA,115.2,1289
+San Leandro CA,503.1,4126.9
+San Marcos CA,264.5,1750.4
+San Mateo CA,262.8,1889.2
+San Ramon CA,60.8,1148.4
+Sandy Springs GA,191,2809.3
+Sandy UT,162.6,2945.6
+Santa Barbara CA,403.9,3466.1
+Santa Cruz CA,711,5886.5
+Santa Fe NM,481.4,5668.3
+Santa Monica CA,433,3725.3
+Schaumburg IL,91.2,3334.5
+Schenectady NY,939.5,4244.3
+Scranton PA,331.1,3354
+Shawnee KS,133.8,1668.2
+Shelby MI,116.3,1417
+Sioux City IA,329,4166.2
+Skokie IL,205.8,2422.6
+Somerville MA,348.4,2233.2
+South Gate CA,576.2,2652
+South San Francisco CA,170.8,2032.1
+Southfield MI,487.2,3527.9
+Sparks NV,253.3,2769.9
+Spokane Valley WA,215,5270.7
+Springdale AR,463.2,3756.2
+Springfield OH,618.3,7188.9
+Springfield OR,173,5076.6
+St. Charles MO,151.4,2921
+St. George UT,204.5,2059.9
+St. Joseph MO,417.7,6088.2
+Sugar Land TX,131.4,1858.3
+Sunrise FL,263.9,3704.3
+Tamarac FL,306.2,2520
+Taylor MI,484.5,3834.7
+Temple TX,296.2,#N/A
+Terre Haute IN,312.3,6099.6
+Toms River NJ,87.9,3140.1
+Tracy CA,170.5,2537.4
+Trenton NJ,1466.3,3218.6
+Troy MI,73.6,2040
+Tulare CA,617.9,3944.3
+Turlock CA,638.2,3565.2
+Tuscaloosa AL,519.7,4728.6
+Tustin CA,147.3,2135.7
+Union City CA,330.6,2543.3
+Union City NJ,370.3,1873.6
+Upland CA,195.9,3082.2
+Upper Darby PA,623.1,2380.1
+Utica NY,658.2,4330.2
+Vacaville CA,261.8,2161.8
+Victoria TX,632.1,4032.7
+Vineland NJ,367.3,4148.4
+Vista CA,483.9,1961.8
+Walnut Creek CA,127.6,3114.7
+Waltham MA,236.5,1375.5
+Warner Robins GA,528.7,5747.4
+Warwick RI,124,2572.9
+Waterford MI,195.2,1856.7
+Waterloo IA,682,3647.8
+Waukegan IL,469.4,3004.4
+Waukesha WI,150.6,1835.4
+West Allis WI,313.8,4793.8
+West Bloomfield MI,55.3,1059
+West Hartford CT,72.5,2669.8
+Westland MI,405.8,2893.2
+Westminster CA,309,3128.1
+Weston FL,91.9,980
+Whittier CA,284.8,2884.5
+Wilmington DE,1703.5,5304.6
+Woodbury MN,#N/A,2291.5
+Yakima WA,605.9,6180.8
+Yorba Linda CA,80.5,1195.7
+York Area Regional PA,120.2,1052.2
+Youngstown OH,1027.5,5462.2
+Yuba City CA,376.2,3018.9
+Yuma AZ,531.6,3508.5
+Abington PA,197.4,1979.1
+Albany OR,86.1,3092.9
+Alexandria LA,1682.2,7492.4
+Aliso Viejo CA,87.8,847
+Altamonte Springs FL,335.7,3057
+Altoona PA,351.3,1946
+Ames IA,131.6,2453.1
+Anderson IN,481,5095.1
+Ankeny IA,73.1,1385.5
+Apopka FL,339.2,3057.2
+Apple Valley MN,#N/A,2239.7
+Arcadia CA,99.5,2422.5
+Arlington MA,116.8,1179.2
+Attleboro MA,322.5,2411.8
+Auburn AL,240.9,3502.8
+Azusa CA,467,2555.7
+Barnstable MA,621,2784.7
+Bartlett IL,74.7,764.3
+Bartlett TN,237.8,1401.5
+Beavercreek OH,54.9,2355
+Bedford TX,293.3,2729.5
+Bell Gardens CA,292.3,1702.2
+Bellevue NE,106.4,2209.8
+Berwyn IL,198.5,2513.5
+Beverly MA,206.7,1569.1
+Billerica MA,136.5,1141
+Biloxi MS,417.4,5033.6
+Binghamton NY,666.7,4943.9
+Blacksburg VA,90.6,1102.9
+Blaine MN,#N/A,3316.5
+Bloomfield MI,53.2,1092.7
+Bloomfield NJ,264.6,2286.9
+Blue Springs MO,242.2,3343.6
+Boardman OH,105.9,4181.4
+Bountiful UT,84.3,2141.8
+Bowie MD,141.7,1624.7
+Bowling Green KY,320.1,5123.4
+Bradenton FL,670.2,3982.1
+Brea CA,183.8,3209.7
+Brentwood CA,187.5,2243.9
+Bridgewater NJ,29,1459.3
+Bristol PA,204.4,3146.2
+Brookline MA,137.5,1346
+Broomfield CO,51.6,2086.2
+Buckeye AZ,103.4,2627.7
+Buffalo Grove IL,12,892.4
+Bullhead City AZ,213.5,4037
+Burlington NC,789.4,5428.7
+Caldwell ID,256.2,2437.4
+Campbell CA,223.1,4087.9
+Carol Stream IL,90,1199.8
+Casa Grande AZ,420.9,5699
+Casper WY,151.4,3464.7
+Castle Rock CO,89.9,1331
+Cathedral City CA,385.9,2981.1
+Cedar Hill TX,227.3,3529.7
+Cedar Park TX,209.4,1469.7
+Ceres CA,396.4,4202.1
+Cerritos CA,240.7,3750.8
+Chapel Hill NC,148.5,2548.4
+Charlottesville VA,450.1,3414.3
+Chesterfield MI,278.3,2044.9
+Chesterfield MO,48.4,1587.5
+Chicopee MA,462.2,3007.6
+Cleveland Heights OH,367.1,3601.3
+Cleveland TN,881.9,5289.1
+Coachella CA,630.4,3680.4
+Coconut Creek FL,195.8,2967.9
+Coeur d'Alene ID,574.4,4369.6
+Colerain OH,27.4,2668.6
+Collierville TN,172.3,1984.8
+Colton CA,353.7,3569.1
+Columbus IN,185.2,4931.2
+Commerce City CO,357.2,2983.8
+Concord NH,214.9,2970.9
+Conroe TX,369.2,3443.3
+Coppell TX,67.4,1655.3
+Coral Gables FL,163.1,4701.1
+Corvallis OR,121.7,2575.3
+Covina CA,310.8,3398
+Crystal Lake IL,152,1971.3
+Cupertino CA,97,1333.5
+Cutler Bay FL,296.7,4440.3
+Cuyahoga Falls OH,131.4,2575.3
+Cypress CA,114.3,2078.6
+Danville CA,37.1,1025
+Danville VA,311.6,4487.1
+De Kalb IL,448.3,2982.5
+Dearborn Heights MI,337.2,2201.7
+Decatur AL,427.6,5190.1
+Delano CA,504.4,2645.5
+Des Plaines IL,110.8,1604.6
+Desoto TX,259.9,3508.2
+Diamond Bar CA,97.4,1685.9
+Doral FL,177.1,4982.4
+Downers Grove IL,60.2,2062.9
+Draper UT,98.6,1986.2
+Dublin CA,178.7,1555.2
+Dublin OH,35.4,1284.7
+Dubuque IA,219,#N/A
+Dunwoody GA,95.1,4073.3
+East Brunswick NJ,52.1,1789.2
+East Hartford CT,373.3,3058.5
+East Lansing MI,238.2,2039
+East Providence RI,151.1,1774.7
+Eastvale CA,74,1816.4
+Edina MN,#N/A,1780
+Edmonds WA,140.4,2472.4
+Egg Harbor NJ,227.6,1963.2
+El Centro CA,380.4,5675.6
+Elmhurst IL,72,1399
+Enfield CT,67,1830.1
+Enid OK,329.6,3975.5
+Euless TX,178.5,2983.4
+Everett MA,400.2,2321.3
+Evesham NJ,65.4,1491.9
+Fairfield OH,341.7,3131.5
+Farmington NM,1061.2,4116.7
+Fitchburg MA,781.7,2661.2
+Florissant MO,151.2,2239.5
+Fond du Lac WI,422.4,2793.2
+Fort Pierce FL,1108.9,5462.1
+Fountain Valley CA,187,2592
+Freeport Village NY,483.3,2023.2
+Galveston TX,602,5021.4
+Gardena CA,479.9,2209
+Georgetown TX,131.2,1828.9
+Gilroy CA,317.7,3573
+Glendora CA,115.9,2540.1
+Glenview IL,86.8,1066.6
+Grand Forks ND,271.2,2617.1
+Grand Island NE,326.7,4648.8
+Grand Junction CO,423.4,4592
+Grapevine TX,147.6,2782
+Great Falls MT,254.4,4696.8
+Greenburgh Town NY,112.9,1359.2
+Greenwood IN,369.1,3495.9
+Hackensack NJ,#N/A,2020.7
+Hagerstown MD,489.1,3615.1
+Haltom City TX,240.8,3302.7
+Hamburg Town NY,77.5,2847.3
+Hanford CA,564,3123
+Harrisburg PA,1461.2,4876.1
+Harrisonburg VA,217.7,2111.9
+Hattiesburg MS,252.5,5709.9
+Haverford PA,51.4,1189.3
+Hempstead Village NY,853.3,1824.2
+Hendersonville TN,240.6,1782.8
+Hickory NC,656.6,6541
+Highland CA,544.1,2970.4
+Hoboken NJ,295.3,1958.9
+Hoffman Estates IL,126.6,1361.5
+Holyoke MA,948.8,6232
+Howell NJ,79.8,1241.8
+Huntersville NC,175.2,2165.9
+Huntington Park CA,631.4,3244.8
+Hutchinson KS,618.6,5947.1
+Idaho Falls ID,239.5,2937.8
+Irondequoit Town NY,151.8,3137.7
+Irvington NJ,1304.5,3624.2
+Jackson NJ,#N/A,1355.6
+Jefferson City MO,601.2,3653.3
+Jeffersonville IN,955.3,4263.8
+Joplin MO,568.6,7576.9
+Jupiter FL,202.9,2110.3
+Kearny NJ,242.1,2147.2
+Keller TX,36.5,943.2
+Kettering OH,88.6,2288.1
+Kingsport TN,739.3,5942.9
+Kirkland WA,183.1,3292
+Kokomo IN,387.9,4069.2
+La Crosse WI,297,3768.5
+La Mesa CA,383.3,2963.5
+La Mirada CA,198.7,1573.7
+La Puente CA,298.9,1287.1
+Lacey WA,176.8,3362.4
+Lake Elsinore CA,241.1,3583.6
+Lake Havasu City AZ,108.4,2534
+Lakeville MN,#N/A,1330.9
+Lakewood OH,123.7,1981.8
+Lakewood WA,782.6,4869.1
+Leesburg VA,160.4,2169.8
+Lehi UT,36.5,1322.5
+Lenexa KS,117.8,1917.8
+Leominster MA,656.8,3189.4
+Lincoln CA,31.5,1140.2
+Linden NJ,320.1,2372.6
+Littleton CO,129.5,2887
+Logan UT,64.4,2107.8
+Lombard IL,124.2,2626.4
+Lompoc CA,514.8,2704.1
+Lower Merion PA,80.7,1775
+Lower Paxton PA,239.6,2194.3
+Madison AL,205.2,2435
+Manchester NJ,46,1050.8
+Manchester CT,189.9,3074.7
+Mansfield OH,374.9,6750.2
+Mansfield TX,126.5,1566.1
+Margate FL,261.8,2023.3
+Maricopa AZ,129.2,1880.5
+Marietta GA,817.7,4395.5
+Marlboro NJ,42,794
+Mentor OH,112.5,2599.6
+Meridian MS,565.9,5173.3
+Methuen MA,162.3,1810.6
+Miami OH,34,1916.9
+Middletown PA,85.5,3494.5
+Middletown CT,150.4,1879.8
+Middletown OH,733.3,8225.2
+Midland MI,90.2,1085.4
+Midwest City OK,529,5347.2
+Milford CT,87.1,3002.8
+Millcreek PA,93.3,2038.6
+Minnetonka MN,#N/A,1647
+Minot ND,232.4,1755.6
+Mishawaka IN,330.8,5783.3
+Moline IL,404.5,3112
+Monroe LA,990.4,7630.3
+Moore OK,135.9,4205.7
+Mount Laurel NJ,78.3,1686.8
+Mount Prospect IL,58.8,1368.8
+National City CA,619.2,3109.1
+New Brunswick NJ,685.6,2711.9
+Newark CA,388.2,3098.4
+Newark OH,144.4,4796.3
+Niagara Falls NY,1229.2,5884.1
+Normal IL,215.9,2473.6
+North Brunswick NJ,123.9,1771
+North Lauderdale FL,453.3,2802.7
+North Miami Beach FL,647.6,4614.2
+North Port FL,222,1833.8
+Norwich CT,244.3,2376.8
+Novato CA,181.3,1805.7
+Novi MI,66.5,1884.1
+Oak Lawn IL,144,1996
+Oakland Park FL,784.5,5290.3
+Ocala FL,654.6,5406
+Olympia WA,314.3,4368.4
+Orland Park IL,28,2382.4
+Oro Valley AZ,50.3,1624.9
+Owensboro KY,216.4,4360.1
+Palm Beach Gardens FL,151,3188.5
+Palm Desert CA,207.9,4642.1
+Palm Springs CA,656.6,4852.6
+Paramount CA,443.7,2792.9
+Parker CO,125.5,955.2
+Parsippany NJ,72.5,922.1
+Peabody MA,232.2,2114.6
+Penn Hills PA,308.3,1979.4
+Pensacola FL,894,5730.6
+Perth Amboy NJ,453.8,2376.1
+Petaluma CA,283.1,1393.3
+Pflugerville TX,123.3,1620.8
+Pine Bluff AR,1288.1,6825.8
+Pinellas Park FL,457.6,5509.7
+Piscataway NJ,113.1,929.4
+Pittsfield MA,425.7,2598.7
+Placentia CA,206.7,1749.8
+Plainfield NJ,711.3,2870.9
+Pocatello ID,255.5,2721.9
+Port Arthur TX,628.4,4394.9
+Port Orange FL,108.2,2493.9
+Portage MI,162.9,3521.4
+Porterville CA,360.1,3253.9
+Poughkeepsie NY,126.5,3248.4
+Poway CA,192,1141.6
+Prescott AZ,415.6,2731.3
+Quincy IL,462.1,3205.2
+Rancho Palos Verdes CA,82.7,1176.3
+Rancho Santa Margarita CA,55.1,650.5
+Redmond WA,64.6,2137.3
+Revere MA,508.3,2352.3
+Richland WA,163.8,2537.1
+Rocklin CA,83.2,1557.8
+Rocky Mount NC,1291.3,5832.6
+Rogers AR,349.7,3620.3
+Rohnert Park CA,460.3,1845.8
+Rosemead CA,261.6,1670.4
+Roseville MI,478.9,4082.3
+Roswell NM,629.3,5378.1
+Rowlett TX,121.7,1726.6
+Royal Oak MI,124.9,1748.5
+Saginaw MI,209.1,2017.6
+Saginaw MI,2362.1,3442.8
+Salem MA,378.3,2272.5
+Salina KS,334.3,4886.3
+Sammamish WA,33.9,727.3
+San Bruno CA,202.4,2288
+San Gabriel CA,218,1362.2
+San Jacinto CA,300.2,3240.8
+San Luis Obispo CA,259,4289.7
+San Marcos TX,346.1,3285.9
+San Rafael CA,324.5,3032.9
+Sanford FL,590.9,5422.4
+Santee CA,281.5,2027.4
+Sarasota FL,801.1,5460.4
+Sayreville NJ,88.1,1341.8
+Sheboygan WI,345.1,3079.5
+Shelton CT,54.9,1078.3
+Shoreline WA,181.4,3030.7
+Sierra Vista AZ,278.9,3306
+Smyrna GA,306.5,2649.6
+Smyrna TN,256.8,2390.8
+South Brunswick NJ,77.5,1180.6
+South Jordan UT,44.2,1976.1
+Southampton Town NY,127.3,1999.8
+Southaven MS,292.4,2653.3
+Southington CT,64.8,1737.7
+St. Clair Shores MI,252.3,1980.2
+St. Louis Park MN,#N/A,3226.8
+St. Peters MO,223,2602.9
+State College PA,92.9,1380.2
+Stillwater OK,261.2,3175
+Stratford CT,199.8,2715.2
+Streamwood IL,84.9,1755.3
+Strongsville OH,29.3,1792.9
+Summerville SC,183.6,2917.6
+Sumter SC,985.1,5248
+Taunton MA,474.9,1507.8
+Teaneck NJ,139.2,1456.6
+Texas City TX,318.6,3660
+Tigard OR,135.7,3478.6
+Tinley Park IL,75.4,1472.1
+Titusville FL,662.6,3977.6
+Tonawanda Town NY,202.1,1834.1
+Troy NY,664.8,4707.2
+Twin Falls ID,376.7,2817.3
+Union OH,76.9,3529.6
+Union NJ,138,1864.3
+Urbana IL,356.3,3474
+Urbandale IA,140.9,1700.2
+Valdosta GA,438,4104.8
+Wallingford CT,33.2,2022.9
+Warren OH,674.6,4860.4
+Washington NJ,136.9,2327.3
+Watsonville CA,484,3044.3
+Wauwatosa WI,166.9,4120
+Wayne NJ,72.6,2228
+Webster Town and Village NY,60.6,1080.7
+Wellington FL,248.5,2493.8
+West Chester OH,91.7,2234.4
+West Des Moines IA,163.4,3139.3
+West Haven CT,573.5,2601.3
+West New York NJ,388.1,1451.3
+West Orange NJ,146.2,1406.3
+West Sacramento CA,383.8,2945.5
+West Seneca Town NY,115.8,1875.2
+Westfield MA,183.2,1856.1
+Weymouth MA,344.3,1474.4
+Wheaton IL,22.5,1088.9
+White Plains NY,159.8,2407.6
+Wilkes-Barre PA,414.1,2992.9
+Wilson NC,526.3,4662
+Woodland CA,314.3,3080.4
+Woonsocket RI,534.7,3059.8
+Wylie TX,64.2,1404.5
+York PA,1335.5,3599.1
+Yucaipa CA,226.1,1793.9
